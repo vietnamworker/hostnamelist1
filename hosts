@@ -1,4 +1,4 @@
 # The following list items will be updated when the computer is restarted(or when dhcp lease request is issued).  
 # See https://gist.github.com/kurohara/5881858 for check your environment.  
-192.168.200.233|kurohara_centos1.ebisu.insight-tec.co.jp
-192.168.200.226|ubuntu
+192.168.200.233      kurohara_centos1.ebisu.insight-tec.co.jp
+192.168.200.226      ubuntu
