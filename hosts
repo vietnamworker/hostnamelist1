@@ -1,6 +1,7 @@
 # The following list items will be updated when the computer is restarted(or when dhcp lease request is issued).  
 # See https://gist.github.com/kurohara/5881858 for check your environment.  
 192.168.200.229      W2K8R2x64SP1-73
+192.168.200.232      WIN2k8SS2k8GLS
 192.168.200.233      kurohara_centos1.ebisu.insight-tec.co.jp
 192.168.200.226      ubuntu
 192.168.200.218      vmWIN2008R2x86
